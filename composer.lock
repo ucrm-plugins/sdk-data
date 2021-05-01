@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "5bd34a01f472b2a28647dbdaecfbfa2c",
+    "content-hash": "697a2c5aef57578b5d79e9c4008f5e3a",
     "packages": [
         {
             "name": "mvqn/annotations",
