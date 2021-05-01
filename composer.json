@@ -9,6 +9,8 @@
             "email": "rspaeth@mvqn.net"
         }
     ],
+    "minimum-stability": "dev",
+    "prefer-stable": true,
     "require": {
         "php": "~7.3",
 
@@ -29,7 +31,5 @@
         }
     },
     "scripts": {
-    },
-    "minimum-stability": "dev",
-    "prefer-stable": true
+    }
 }
