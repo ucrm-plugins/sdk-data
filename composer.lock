@@ -43,7 +43,7 @@
             "authors": [
                 {
                     "name": "Ryan Spaeth",
-                    "email": "rspaeth@mvqn.net"
+                    "email": "rspaeth@spaethtech.com"
                 }
             ],
             "description": "A semi-complex PHP-Doc Annotation parsing library, specifically designed for use in my own projects!",
@@ -87,7 +87,7 @@
             "authors": [
                 {
                     "name": "Ryan Spaeth",
-                    "email": "rspaeth@mvqn.net"
+                    "email": "rspaeth@spaethtech.com"
                 }
             ],
             "description": "A library for collections, specifically designed for use in my own projects!",
@@ -140,7 +140,7 @@
             "authors": [
                 {
                     "name": "Ryan Spaeth",
-                    "email": "rspaeth@mvqn.net"
+                    "email": "rspaeth@spaethtech.com"
                 }
             ],
             "description": "A library of common classes and functions, specifically designed for use in my own projects!",
@@ -191,7 +191,7 @@
             "authors": [
                 {
                     "name": "Ryan Spaeth",
-                    "email": "rspaeth@mvqn.net"
+                    "email": "rspaeth@spaethtech.com"
                 }
             ],
             "description": "A simple database library.",
@@ -238,7 +238,7 @@
             "authors": [
                 {
                     "name": "Ryan Spaeth",
-                    "email": "rspaeth@mvqn.net"
+                    "email": "rspaeth@spaethtech.com"
                 }
             ],
             "description": "A library for dynamic objects and methods.",

@@ -12,7 +12,7 @@ use MVQN\Data\Annotations\ColumnNameAnnotation as ColumnName;
  * Class General
  *
  * @package UCRM\UNMS
- * @author Ryan Spaeth <rspaeth@mvqn.net>
+ * @author Ryan Spaeth <rspaeth@spaethtech.com>
  * @final
  *
  * @TableName ucrm.general
